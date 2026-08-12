@@ -11,16 +11,12 @@ I enjoy building practical projects, solving **Data Structures & Algorithms** pr
 ## 🚀 About Me
 
 - 🎓 Computer Engineering Student
-- 🤖 Interested in **Artificial Intelligence, Machine Learning & Generative AI**
+- 🤖 Interested in AI, Machine Learning & Generative AI
 - 🐍 Python Developer
-- 💻 Practicing **Data Structures & Algorithms**
-- 🌐 Exploring Web Development
-- 🧠 Interested in **RAG, LLM Applications & AI-powered Systems**
-- 🔧 Building practical projects and experimenting with new technologies
-- 🌱 Currently improving my **DSA, AI/ML and Software Development** skills
-- 🧩 Solving problems on **LeetCode**
+- 💻 Practicing Data Structures & Algorithms
+- 🧩 Solving problems on LeetCode
+- 🔧 Building practical projects and learning new technologies
 - 🤝 Interested in Open Source and collaborative projects
-
 ---
 
 ## 🛠️ Tech Stack
@@ -51,9 +47,6 @@ I enjoy building practical projects, solving **Data Structures & Algorithms** pr
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**Areas of Interest:**
-
-`Machine Learning` `Generative AI` `RAG` `LLM Applications` `Data Analysis` `Predictive Modeling` `AI Applications`
 
 ### 🗄️ Databases
 
