@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Kartik Naik
 
-### 💻 Computer Engineering Student | AI/ML Enthusiast | Python Developer | Open Source Learner
+### 💻 Computer Engineering Student | AI/ML Enthusiast | Python Developer
 
-I'm a Computer Engineering student passionate about **Artificial Intelligence, Machine Learning, Software Development, and Problem Solving**.
-
-I enjoy building practical projects, solving **Data Structures & Algorithms** problems, exploring new technologies, and continuously improving my development skills — one commit at a time.
+Passionate about **AI, Machine Learning, Software Development, and Problem Solving**. I enjoy building projects, solving **DSA** problems, and learning new technologies.
 
 ---
 
